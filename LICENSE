@@ -1,5 +1,8 @@
 The MIT License (MIT)
-Copyright (c) 2017 Marcel Tannich
+Copyright (c) 2024 Marcel Tannich
+
+This project includes other software licensed under the MIT License:
+- https://www.npmjs.com/package/christian-git, Copyright (c) 2017 Alex MacArthur. See the original license at https://github.com/alexmacarthur/christian-git/blob/lord/LICENSE.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
