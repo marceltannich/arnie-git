@@ -1,6 +1,6 @@
 {
   "name": "arnie-git",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Get to the chopper! 'arnie' is the Git wrapper that pumps up your version control with his iconic one-liners. Don't just commit—crush your workflow and say 'Hasta la vista' to boring commands!",
   "keywords": [
     "git",
