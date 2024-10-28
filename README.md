@@ -2,7 +2,7 @@
 
 Get to the chopper! 'arnie' is the Git wrapper that pumps up your version control with his iconic one-liners. Don't just commit—crush your workflow and say 'Hasta la vista' to boring commands!
 
-## What is hell is this?
+## What is this?
 
 Install this package and you'll have a collection of his Git commands and aliases at your fingertips—no more weak commands! Using the `arnie` command, you can completely eliminate the need to call `git` on your machine. If one of his pumped-up commands doesn't exist, it'll fall back to the regular Git command. Get ready to crush your version control workflow!
 
@@ -10,9 +10,9 @@ For example, running `arnie crush-your-enemies` calls `git merge`, and `arnie co
 
 Each of these commandos will respect any flags you include, passing them straight through to the underlying Git command. So don't hesitate—add your options, and let 'arnie' do the heavy lifting! No problemo!
 
-## Commando(s)
+## Commands
 
-commandos that override core Git command.
+commands that override core Git command.
 
 | Real Command | Redeemed Command                      | Explanation                                                                  |
 | ------------ | ------------------------------------- | ---------------------------------------------------------------------------- |
@@ -59,8 +59,4 @@ or
 
 ## Usage
 
-Whenever you'd normally use `git`, use `arnie` instead, followed by whatever [command](#commando) or [alias](#aliases) and any flags you'd like to pass.
-
-## Feedback
-
-Like this tool? Star it & [tweet me](https://www.X.com/marceltannich)!
+Whenever you'd normally use `git`, use `arnie` instead, followed by whatever [command](#commands) or [alias](#aliases) and any flags you'd like to pass.
