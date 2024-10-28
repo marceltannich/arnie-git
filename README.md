@@ -59,4 +59,4 @@ or
 
 ## Usage
 
-Whenever you'd normally use `git`, use `arnie` instead, followed by whatever [command](#commands) or [alias](#aliases) and any flags you'd like to pass.
+Whenever you'd normally use `git`, use `arnie` instead, followed by whatever command or alias and any flags you'd like to pass.
