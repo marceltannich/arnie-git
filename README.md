@@ -38,11 +38,9 @@ commands that override core Git command.
 | tag          | youre-mine-now                        | Tag commits, marking them as yours.                                          |
 | bisect       | im-looking-for-sarah-connor           | Search for the commit that introduced a bug, as if searching for someone.    |
 
-## Alias
+## Aliases
 
 Need to run more complex commandos with extra firepower? Use these aliases—they're your tactical shortcuts! They provide shorthand ways to execute advanced commands (basically anything that requires extra flags). So gear up, and let nothing stand in your way!
-
-## Aliases
 
 | Real Command | Redeemed Alias | Explanation                                      |
 | ------------ | -------------- | ------------------------------------------------ |
