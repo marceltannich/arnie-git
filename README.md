@@ -1,14 +1,14 @@
 # Arnie Git
 
-Get to the chopper! 'arnie' is the Git wrapper that pumps up your version control with his iconic one-liners. Don't just commit—crush your workflow and say 'Hasta la vista' to boring commands!
+Get to the chopper! 'arnie-git' is the Git wrapper that pumps up your version control with his iconic one-liners. Don't just commit—crush your workflow and say 'Hasta la vista' to boring commands!
 
 ## What is this?
 
-Install this package and you'll have a collection of his Git commands and aliases at your fingertips—no more weak commands! Using the `arnie` command, you can completely eliminate the need to call `git` on your machine. If one of his pumped-up commands doesn't exist, it'll fall back to the regular Git command. Get ready to crush your version control workflow!
+Install this package and you'll have a collection of his Git commands and aliases at your fingertips—no more weak commands! Using the `arnie-git` command, you can completely eliminate the need to call `git` on your machine. If one of his pumped-up commands doesn't exist, it'll fall back to the regular Git command. Get ready to crush your version control workflow!
 
-For example, running `arnie crush-your-enemies` calls `git merge`, and `arnie consider-that-a-divorce your-branch` calls `git branch -D your-branch`.
+For example, running `arnie-git crush-your-enemies` calls `git merge`, and `arnie-git consider-that-a-divorce your-branch` calls `git branch -D your-branch`.
 
-Each of these commandos will respect any flags you include, passing them straight through to the underlying Git command. So don't hesitate—add your options, and let 'arnie' do the heavy lifting! No problemo!
+Each of these commandos will respect any flags you include, passing them straight through to the underlying Git command. So don't hesitate—add your options, and let 'arnie-git' do the heavy lifting! No problemo!
 
 ## Commands
 
@@ -57,4 +57,4 @@ or
 
 ## Usage
 
-Whenever you'd normally use `git`, use `arnie` instead, followed by whatever command or alias and any flags you'd like to pass.
+Whenever you'd normally use `git`, use `arnie-git` instead, followed by whatever command or alias and any flags you'd like to pass.
